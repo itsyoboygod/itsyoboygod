@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [World Wide Check]([https://itsyoboygod.github.io/firebase/](https://github.com/itsyoboygod/world-wide-check))
 
-- 🌱 I’m currently learning **Javascript, ReactJS, Mysql**
+- 🌱 I’m currently learning **Javascript, Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsyoboygod](https://github.com/itsyoboygod)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcusaguiar-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcusaguiar-2021/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcusaguiar2023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcusaguiar-2021/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
